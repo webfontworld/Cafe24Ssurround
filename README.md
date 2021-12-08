@@ -1,5 +1,3 @@
-# Cafe24Ssurround
-
 # 카페24 써라운드체(Cafe24Ssurround)
 
 <a href="https://wess.tistory.com" target="_blank">
